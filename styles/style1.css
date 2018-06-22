@@ -222,6 +222,7 @@ footer img{
 
 	footer{
 		width: 100%;
+		clear:both;
 	}
 
 	#menu_icon{
