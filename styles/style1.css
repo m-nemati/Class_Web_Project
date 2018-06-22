@@ -214,6 +214,7 @@ footer img{
 	
 	.content{
 		width: 100%;
+		float: right;
 	}
 	.sidebar{
 	width: 100%;
